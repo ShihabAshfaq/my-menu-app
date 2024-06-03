@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Chef’s Special Salad",
+    "description": "A mix of fresh greens and exotic fruits.",
+    "price": "$12.99"
+  },
+  {
+    "name": "Grilled Salmon",
+    "description": "Served with a side of vegetables.",
+    "price": "$18.99"
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "description": "A perfect ending to your meal.",
+    "price": "$6.99"
+  },
+  {
+    "name": "Karak Chai",
+    "description": "A mix of tea leafs, milk and sugar with a perfect blend of ginger.",
+    "price": "$2.99"
+  },
+  {
+    "name": "Mandi",
+    "description": "A traditional Yemeni dish with tender lamb and rice, soup on side.",
+    "price": "$12.99"
+  }
+]
