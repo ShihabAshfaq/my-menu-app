@@ -104,7 +104,6 @@
     },
     methods: {
       async fetchMenuItems(category) {
-        const apiKey = '536568bc96434680a27bbf88e12badbf'; // Replace with your actual Spoonacular API key
         const endpoint = `https://api.spoonacular.com/food/menuItems/search?apiKey=${apiKey}&query=${category}&number=50`;
   
         try {
